@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<html>
 <!-- saved from url=(0021)https://9pin.github.io/ -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	
